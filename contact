@@ -1,0 +1,26 @@
+
+➡️ **Tarea:** Personalízalo con tu nombre, LinkedIn y correo.
+
+---
+
+## ⚙️ Paso 4 — Crea tu entorno Python local
+
+1. Abre VS Code o tu IDE favorito.
+2. Abre la carpeta del repositorio (`data-analytics-portfolio`).
+3. En la terminal:
+
+```bash
+# crea entorno virtual
+python -m venv venv
+
+# activa el entorno
+# En Windows:
+venv\Scripts\activate
+# En macOS/Linux:
+source venv/bin/activate
+
+# crea requirements.txt inicial
+echo "pandas\nnumpy\nmatplotlib\nscikit-learn\njupyter\nseaborn" > requirements.txt
+
+# instala dependencias
+pip install -r requirements.txt
