@@ -43,5 +43,5 @@ Currently expanding my technical and business analytics skills after completing 
 Clone the repository and navigate through each project folder:
 
 ```bash
-git clone https://github.com/<your-username>/data-analytics-portfolio.git
+git clone https://github.com/EduardoVP1207/data-analytics-portfolio.git
 cd data-analytics-portfolio
